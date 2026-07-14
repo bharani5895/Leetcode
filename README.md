@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bharani5895/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bharani5895/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bharani5895/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bharani5895/Leetcode/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bharani5895/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/bharani5895/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bharani5895/Leetcode/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/bharani5895/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bharani5895/Leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
