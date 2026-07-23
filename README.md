@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bharani5895/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/bharani5895/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bharani5895/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/bharani5895/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharani5895/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bharani5895/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bharani5895/Leetcode/tree/master/0283-move-zeroes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bharani5895/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/bharani5895/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bharani5895/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bharani5895/Leetcode/tree/master/0169-majority-element) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bharani5895/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/bharani5895/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
