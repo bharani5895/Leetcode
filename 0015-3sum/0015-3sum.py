@@ -18,13 +18,15 @@ class Solution:
 
                 if sum_==0:
                     result.append([arr[i],arr[j],arr[k]])
+                    
+                    
+                    while j<k and arr[j]==arr[j+1]:
+                        j+=1
+                    while j<k and arr[k]==arr[k-1]:
+                        k-=1
                     j+=1
                     k-=1
-                    
-                    while j<k and arr[j]==arr[j-1]:
-                        j+=1
-                    while j<k and arr[k]==arr[k+1]:
-                        k-=1
+
                 elif sum_<0:
                     j+=1
                     
