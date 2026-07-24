@@ -6,8 +6,7 @@ class Solution:
         hash_map[0]=1
         for i in range(len(arr)):
             psa+=arr[i]
-            
-            
+
             
             a=psa
             if a-k in hash_map:
