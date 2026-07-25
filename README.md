@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/bharani5895/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bharani5895/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/bharani5895/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bharani5895/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bharani5895/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharani5895/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bharani5895/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bharani5895/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/bharani5895/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bharani5895/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
