@@ -20,23 +20,4 @@ class Solution:
       
       
       
-        """ if head is not None and node<=0:
-            return None
-
-        curr=head
-        if curr.next is not None:
-            after=curr.next
-
-        while curr.next is not None:
-            if curr.x == node:
-                curr.next=head
-
-            if curr.next == node:
-                curr.next=after.next
-                after.next=curr.next
-            
-            else:
-                curr=after
-
-            after=after"""
         
