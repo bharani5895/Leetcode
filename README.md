@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/bharani5895/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharani5895/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/bharani5895/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharani5895/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/bharani5895/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bharani5895/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/bharani5895/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharani5895/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharani5895/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bharani5895/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/bharani5895/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bharani5895/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharani5895/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Queue
 |  |
 | ------- |
