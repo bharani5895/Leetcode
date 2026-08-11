@@ -11,7 +11,7 @@ class Solution:
              
         fast = head
         slow = head
-        prev=head
+        prev=None
         while(fast != None and fast.next !=None):
             fast=fast.next.next
             prev=slow
