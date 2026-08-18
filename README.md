@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bharani5895/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/bharani5895/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/bharani5895/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
@@ -233,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bharani5895/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/bharani5895/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
