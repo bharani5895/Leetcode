@@ -2,25 +2,38 @@ class MinStack:
 
     def __init__(self):
         self.st = []
-        self.minstack = []
+        self.min_val = None
 
     def push(self, val: int) -> None:
-        self.st.append(val)
-        # Push to minstack if it's empty or val is <= current minimum
-        if not self.minstack or val <= self.minstack[-1]:
-            self.minstack.append(val)
+        if not self.st:
+            self.min_val = val
+            self.st.append(val)
+        else:
+            if val < self.min_val:
+                # Push encoded value 2*val - min_val
+                self.st.append(2 * val - self.min_val)
+                self.min_val = val
+            else:
+                self.st.append(val)
 
     def pop(self) -> None:
-        # If the element being removed is the current minimum, pop from minstack too
-        if self.st[-1] == self.minstack[-1]:
-            self.minstack.pop()
-        self.st.pop()
+        top_val = self.st.pop()
+        
+        # If popped value is less than current min_val, it was an encoded minimum
+        if top_val < self.min_val:
+            # Restore previous minimum: 2*min_val - top_val
+            self.min_val = 2 * self.min_val - top_val
 
     def top(self) -> int:
-        return self.st[-1]
+        top_val = self.st[-1]
+        
+        # If top is encoded, actual value is min_val
+        if top_val < self.min_val:
+            return self.min_val
+        return top_val
 
     def getMin(self) -> int:
-        return self.minstack[-1]
+        return self.min_val
 
 # Your MinStack object will be instantiated and called as such:
 # obj = MinStack()
