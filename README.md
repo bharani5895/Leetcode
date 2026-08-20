@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bharani5895/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/bharani5895/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/bharani5895/Leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/bharani5895/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bharani5895/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/bharani5895/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/bharani5895/Leetcode/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/bharani5895/Leetcode/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/bharani5895/Leetcode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharani5895/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharani5895/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Prefix Sum
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/bharani5895/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bharani5895/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/bharani5895/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/bharani5895/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -247,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/bharani5895/Leetcode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/bharani5895/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bharani5895/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
