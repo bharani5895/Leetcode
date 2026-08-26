@@ -1,31 +1,32 @@
 class Solution:
     def maxVowels(self, s: str, k: int) -> int:
-        vowels = {'a', 'e', 'i', 'o', 'u'}
-        
-        # Step 1: Manually count vowels in the initial window s[0:k]
+        vowels = "aeiou"  # String is slightly faster than set for 5 chars
         current_vowels = 0
+        
+        # 1. Count vowels in the very first window of size k
         for i in range(k):
             if s[i] in vowels:
                 current_vowels += 1
                 
-        max_vowel_count = current_vowels
+        max_vowels = current_vowels
         
-        # Step 2: Slide the window across s from index k to end
-        for i in range(k, len(s)):
-            # Early exit: we cannot exceed a window of size k
-            if max_vowel_count == k:
-                return k
+        # Early exit check for the first window
+        if max_vowels == k:
+            return k
             
-            # Add the new character entering on the right (s[i])
-            if s[i] in vowels:
-                current_vowels += 1
-                
-            # Remove the old character leaving on the left (s[i - k])
+        # 2. Slide the window
+        for i in range(k, len(s)):
             if s[i - k] in vowels:
                 current_vowels -= 1
                 
-            # Update overall max
-            if current_vowels > max_vowel_count:
-                max_vowel_count = current_vowels
-            
-        return max_vowel_count
+            if s[i] in vowels:
+                current_vowels += 1
+                
+            # Replacing max() with an if statement for speed
+            if current_vowels > max_vowels:
+                max_vowels = current_vowels
+                # Early exit check inside the loop
+                if max_vowels == k:
+                    return k
+                    
+        return max_vowels
