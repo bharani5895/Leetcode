@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/bharani5895/Leetcode/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bharani5895/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0680-valid-palindrome-ii](https://github.com/bharani5895/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/bharani5895/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/bharani5895/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/bharani5895/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/bharani5895/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/bharani5895/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/bharani5895/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/bharani5895/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/bharani5895/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bharani5895/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Trie
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bharani5895/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/bharani5895/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/bharani5895/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/bharani5895/Leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/bharani5895/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bharani5895/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Pigeonhole Principle
 |  |
