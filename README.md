@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/bharani5895/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/bharani5895/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/bharani5895/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1668-maximum-repeating-substring](https://github.com/bharani5895/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/bharani5895/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/bharani5895/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bharani5895/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1668-maximum-repeating-substring](https://github.com/bharani5895/Leetcode/tree/master/1668-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/bharani5895/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bharani5895/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/bharani5895/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Z Algorithm
 |  |
 | ------- |
