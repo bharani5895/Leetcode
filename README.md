@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/bharani5895/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/bharani5895/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/bharani5895/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/bharani5895/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/bharani5895/Leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/bharani5895/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bharani5895/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bharani5895/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/bharani5895/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/bharani5895/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/bharani5895/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/bharani5895/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bharani5895/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/bharani5895/Leetcode/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
