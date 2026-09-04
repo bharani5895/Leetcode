@@ -3,9 +3,9 @@ class Solution:
         if n <= 2:
             return n
         
-        prev1, prev2 = 1, 2
-        for _ in range(3, n + 1):
-            curr = prev1 + prev2
-            prev1, prev2 = prev2, curr
-            
-        return prev2
+        dp=[1]*n
+        dp[1]=2
+        for i in range(2,n):
+            dp[i]=dp[i-1]+dp[i-2]
+
+        return dp[-1] 
