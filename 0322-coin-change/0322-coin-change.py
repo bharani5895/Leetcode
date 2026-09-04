@@ -4,7 +4,8 @@
             return 0
         if n==0:
             return float('inf')-1
-
+        if dp[n][amount]!=-1:
+            return dp[n][amount]
         if coins[n-1]<=amount:
             take=1+self.mincoins(coins,amount-coins[n-1],n,dp)
             nottake=self.mincoins(coins,amount,n-1,dp)
@@ -20,7 +21,7 @@
         return k"""
 
 
-class Solution:
+"""class Solution:
     def mincoins(self, coins: List[int], amount: int, n: int, dp: List[List[int]]) -> int:
 
         if amount == 0:
@@ -46,7 +47,18 @@ class Solution:
         dp = [[-1] * (amount + 1) for _ in range(n + 1)]
 
         k = self.mincoins(coins, amount, n, dp)
-        return -1 if k >= float('inf') - 1 else k
-        
+        return -1 if k >= float('inf') - 1 else k    
+"""
+class Solution:
 
+  def coinChange(self, coins: List[int], amount: int) -> int:
+    dp = [amount + 1] * (amount + 1)
+    dp[0] = 0
+
+    for a in range(1, amount + 1):
+      for c in coins:
+        if a - c >= 0:
+          dp[a] = min(dp[a], 1 + dp[a - c])
+
+    return dp[amount] if dp[amount] != amount + 1 else -1
         
