@@ -1,18 +1,15 @@
 class Solution:
-    def longestCommonPrefix(self, arr: List[str]) -> str:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
         
-        re=""
-        if not arr:
-            return ""
+        min_len=float("inf")
+        i=0
+        for s in strs:
+            if len(s)<min_len:
+                min_len=len(s)
         
-        for i in range(len(arr[0])):
-            first=arr[0][i]
-            for j in range(1,len(arr)):
-                if i>=len(arr[j]) or first != arr[j][i]:
-                    return re
-                    
-                    
-            re+=first
-        
-        return re
-        
+        while i < min_len:
+            for s in strs:
+                if s[i] !=strs[0][i]:
+                    return s[:i]
+            i+=1
+        return strs[0][:i]
